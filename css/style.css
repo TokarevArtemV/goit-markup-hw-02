@@ -104,6 +104,16 @@ body {
   line-height: 1.5;
   letter-spacing: 0.04em;
 }
+.solution-button {
+  color: var(--white-color);
+  background-color: var(--iris-collor);
+  cursor: pointer;
+}
+.solution-button:hover,
+.solution-button:focus {
+  background-color: var(--ocean-collor);
+  color: var(--white-color);
+}
 .filter-button {
   color: var(--iris-collor);
   background-color: var(--cloud-collor);
