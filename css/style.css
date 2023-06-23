@@ -49,10 +49,6 @@ body {
   letter-spacing: 0.02em;
   color: var(--gray-color);
 }
-.basement {
-  background-color: var(--gray-color);
-}
-/* page index */
 .list {
   list-style: none;
   font-size: 16px;
@@ -75,18 +71,6 @@ body {
 }
 .our-team-list {
   background-color: #ffffff;
-}
-/* page portfolio */
-.text-small {
-  font-size: 12px;
-  line-height: 1.167;
-  letter-spacing: 0.04em;
-}
-.text-medium {
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
 }
 .text-link {
   text-decoration: underline;
@@ -142,6 +126,9 @@ body {
 .address-text:focus {
   color: var(--ocean-collor);
   text-decoration: underline;
+}
+.basement {
+  background-color: var(--gray-color);
 }
 .footer-text {
   color: var(--cloud-collor);
