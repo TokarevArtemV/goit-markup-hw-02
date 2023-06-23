@@ -24,7 +24,7 @@ body {
   font-style: inherit;
   color: var(--slate-collor);
 }
-.head-1 {
+.head1 {
   font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
@@ -32,7 +32,7 @@ body {
   text-align: center;
   color: #ffffff;
 }
-.head-2 {
+.head2 {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
@@ -42,7 +42,7 @@ body {
   letter-spacing: 0.02em;
   color: var(--gray-color);
 }
-.head-3 {
+.head3 {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -81,6 +81,10 @@ body {
 .link {
   text-decoration: none;
 }
+.address-link {
+  text-decoration: none;
+  color: var(--slate-collor);
+}
 .logo-text {
   font-family: "Raleway", sans-serif;
   font-size: 18px;
@@ -101,8 +105,8 @@ body {
   letter-spacing: 0.04em;
 }
 .filter-button {
-  background-color: var(--iris-collor);
-  color: var(--white-color);
+  color: var(--iris-collor);
+  background-color: var(--cloud-collor);
   cursor: pointer;
 }
 .filter-button:hover,
