@@ -27,7 +27,7 @@ body {
   text-decoration: none;
   color: var(--slate-collor);
 }
-.head1 {
+.Title1 {
   font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
@@ -35,7 +35,7 @@ body {
   text-align: center;
   color: #ffffff;
 }
-.head2 {
+.Title2 {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
@@ -45,7 +45,7 @@ body {
   letter-spacing: 0.02em;
   color: var(--gray-color);
 }
-.head3 {
+.Title3 {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
